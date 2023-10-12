@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Python project that demonstrates the use of hierarchical classes and object-oriented programming (OOP). While the project itself is relatively simple, it showcases the power and structure that can be achieved with OOP.
+This Python project  demonstrates the use of hierarchical classes and object-oriented programming (OOP). While the project itself is relatively simple, it showcases the power and structure that can be achieved with OOP.
 In this project, I've established a fictional restaurant chain, "Basta Fazoolin' with my Heart," and expanded it to include a new restaurant, "Take a' Arepa." I've structured the project using a set of classes representing menus, franchises, and the overall business, showing how these elements can be hierarchically organized.
 
 ## Project Structure
